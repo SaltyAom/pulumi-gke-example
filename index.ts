@@ -109,7 +109,7 @@ const deployment = new k8s.apps.v1.Deployment(
                             name: name,
                             image:
                                 'asia.gcr.io/saltyaom-casual/dreamin-graphql:latest',
-                            ports: [{ name: 'http', containerPort: 80 }]
+                            ports: [{ name: 'http', containerPort: 8080 }]
                         }
                     ]
                 }
