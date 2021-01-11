@@ -1,0 +1,12 @@
+{
+    "name": "dreamin-graphql-k8s",
+    "devDependencies": {
+        "@types/node": "^10.0.0"
+    },
+    "dependencies": {
+        "@pulumi/gcp": "^4.6.1",
+        "@pulumi/kubernetes": "^2.0.0",
+        "@pulumi/kubernetesx": "^0.1.1",
+        "@pulumi/pulumi": "^2.0.0"
+    }
+}

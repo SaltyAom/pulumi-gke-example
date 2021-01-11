@@ -1,0 +1,3 @@
+name: dreamin-graphql-k8s
+runtime: nodejs
+description: A minimal Kubernetes TypeScript Pulumi program
